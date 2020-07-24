@@ -7,7 +7,7 @@ class Pessoa
 {   
     public:
 
-        //Interessante Criar Construtores
+        //Interessante Criar Construtoress
         //aqui o construtor padrão(vazio) ja pode receber valores padrão, como o exemplo abaixo
         Pessoa():Nome(""), CPF(0), Matricula(0) {}
         /*isso seria o mesmo que:
